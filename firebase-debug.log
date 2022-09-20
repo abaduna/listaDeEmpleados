@@ -1,0 +1,14 @@
+[debug] [2022-08-25T16:13:16.420Z] ----------------------------------------------------------------------
+[debug] [2022-08-25T16:13:16.423Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2022-08-25T16:13:16.423Z] CLI Version:   11.8.0
+[debug] [2022-08-25T16:13:16.423Z] Platform:      linux
+[debug] [2022-08-25T16:13:16.424Z] Node Version:  v16.16.0
+[debug] [2022-08-25T16:13:16.424Z] Time:          Thu Aug 25 2022 13:13:16 GMT-0300 (hora estándar de Brasilia)
+[debug] [2022-08-25T16:13:16.424Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-25T16:13:21.457Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
